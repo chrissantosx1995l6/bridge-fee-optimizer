@@ -28,3 +28,5 @@ Supported tokens: ETH, USDC, USDT.
 Supported chains: ethereum, arbitrum, optimism, base.
 
 The tool caches gas pricing for 30 seconds locally to avoid hammering public RPC nodes.
+
+<!-- verified: 2026-09-13 -->
